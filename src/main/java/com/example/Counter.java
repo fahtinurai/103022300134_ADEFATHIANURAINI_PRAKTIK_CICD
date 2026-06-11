@@ -13,7 +13,7 @@ public class Counter {
     }
     // Trigger Sonar Analysis fixed
     public void increment() {
-        count++;
+        count += 2;
     }
 
     public void decrement() {
