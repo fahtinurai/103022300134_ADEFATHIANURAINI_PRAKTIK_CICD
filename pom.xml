@@ -6,11 +6,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.fahtinurai</groupId>
-    <artifactId>test-praktik-percobaan-2</artifactId>
+    <artifactId>103022300134-adefathianuraini-praktik-cicd</artifactId>
     <version>1.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>test-praktik-percobaan-2</name>
+    <name>103022300134-adefathianuraini-praktik-cicd</name>
     <description>Basic Java Maven Project for CI/CD Practice</description>
 
     <properties>
